@@ -140,10 +140,10 @@ class VirtualPowerPlantInstructions extends Component {
           />
         </Row>
         <Row>
-          <h3>Step 2:</h3>
-          <p>
-            Add one or more batteries to the battery array. (Click "Add to array")
-          </p>
+        <h3>Step 2:</h3>
+        <p>
+            Add one or more batteries to the battery array. (Click &quot;Add to array&quot;)
+        </p>
         </Row>
         <Row>
           <BatteryCarousel
